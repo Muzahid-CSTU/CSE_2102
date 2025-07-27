@@ -1,0 +1,1 @@
+Heap after deleting max: 60 52 45 25 28 
